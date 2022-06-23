@@ -1,2 +1,12 @@
-title: MLID - machine learning for infection and disease group
+title: Machine Learning for Infection and Disease
+logo: "/img/logo.png?raw=true"
+description:
+  MLID group homepage
+  <br><br>
+  Group Leader - <a href="https://twitter.com/ayakimovich">Artur Yakimovich, PhD</a>
+  <br><br>
+  MLID group is a Young Investigator Group based in the <a href="https://casus.science">Center for Advanced Systems Understanding (CASUS)</a>
+  of the <a href="https://hzdr.de">Helmholtz-Zentrum Dresden-Rossendorf</a>
+  <br><br>
+  Follow us on twitter via hashtag - #YakimovichGroup
 theme: jekyll-theme-minimal
