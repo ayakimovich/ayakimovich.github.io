@@ -1,7 +1,7 @@
 ## About MLID Research Group
 
 ---
-<img src="img/mlid_group.jpg?raw=true" width='60%'/>
+<img src="img/mlid_group.jpg?raw=true" width='90%'/>
 
  MLID group is a Young Investigator Group based in the <a href="https://casus.science">Center for Advanced Systems Understanding (CASUS)</a> of the <a href="https://hzdr.de">Helmholtz-Zentrum Dresden-Rossendorf</a>.  We are based in the beautiful German city of <a href="https://en.wikipedia.org/wiki/G%C3%B6rlitz">Görlitz</a> in Germany. MLID is led by <a href="https://twitter.com/ayakimovich">Artur Yakimovich, PhD</a>.
 <br>

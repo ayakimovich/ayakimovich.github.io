@@ -1,4 +1,4 @@
-<img src="img/mlid_group.jpg?raw=true" width='30%'/>
+<img src="img/mlid_group.jpg?raw=true" width='60%'/>
 ## Our mission
 
 Machine Learning for Infection and Disease (MLID) group (aka Yakimovich group) aims to develop the latest Machine Learning and Computer Science methods to facilitate our understanding of Infection Biology and Disease Biology.
