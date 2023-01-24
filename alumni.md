@@ -3,6 +3,6 @@
 ---
 __Master Students:__
 
-Vaibhav Sharma
+* Vaibhav Sharma
 
-Subasini Thangamani
+* Subasini Thangamani
