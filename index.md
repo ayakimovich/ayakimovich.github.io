@@ -14,4 +14,5 @@ Machine Learning for Infection and Disease (MLID) group (aka Yakimovich group) a
 
 <a href='https://www.researchsquare.com/article/rs-2362531/latest.pdf'>Li, Rui, et al. "Open-Source Biomedical Image Analysis Models: A Meta-Analysis and Continuous Survey." Frontiers in Bioinformatics (2022): 76.</a>
 
+<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8908923/'>Galimov, Evgeniy, and Artur Yakimovich. "A tandem segmentation-classification approach for the localization of morphological predictors of C. elegans lifespan and motility." Aging (Albany NY) 14.4 (2022): 1665.</a>
 ---
