@@ -8,8 +8,9 @@ Machine Learning for Infection and Disease (MLID) group (aka Yakimovich group) a
 <ul>
 <li>
 <a href='https://www.frontiersin.org/articles/10.3389/fbinf.2022.912809/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Bioinformatics&id=912809'>Li, Rui, Mikhail Kudryashev, and Artur Yakimovich. "A weak-labelling and deep learning approach for in-focus object segmentation in 3D widefield microscopy." (2022).</a>
-</ul>
 </li>
+</ul>
+
 ---
 
 ## Latest papers
