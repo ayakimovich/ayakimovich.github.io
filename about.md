@@ -7,6 +7,9 @@
 <br>
 <img src="img/map.png?raw=true"/>
 <br>
+<br>
+<img src="img/goerlitz.jpg?raw=true" width='100%'/>
+<br>
 image source: Wikipedia
 <br>
 You can contact Dr. Artur Yakimovich via following email
