@@ -8,7 +8,7 @@
 <img src="img/map.png?raw=true"/>
 <br>
 <br>
-<img src="img/goerlitz.jpg?raw=true" width='100%'/>
+<img src="img/goerlitz.jpeg?raw=true" width='100%'/>
 <br>
 image source: Wikipedia
 <br>

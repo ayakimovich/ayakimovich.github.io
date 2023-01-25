@@ -18,3 +18,7 @@ Machine Learning for Infection and Disease (MLID) group (aka Yakimovich group) a
 <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8908923/'>Galimov, Evgeniy, and Artur Yakimovich. "A tandem segmentation-classification approach for the localization of morphological predictors of C. elegans lifespan and motility." Aging (Albany NY) 14.4 (2022): 1665.</a>
 
 ---
+
+<br><br>
+  <a class="twitter-timeline" href="https://twitter.com/ayakimovich?ref_src=twsrc%5Etfw">Tweets by ayakimovich</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br><br>
