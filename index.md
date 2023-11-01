@@ -21,5 +21,5 @@ Machine Learning for Infection and Disease (MLID) group (aka Yakimovich group) a
 ---
 
 <br><br>
-  <a class="twitter-timeline" href="https://twitter.com/ayakimovich?ref_src=twsrc%5Etfw">Tweets by ayakimovich</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/ayakimovich?ref_src=twsrc%5Etfw">Tweets by ayakimovich</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br><br>
