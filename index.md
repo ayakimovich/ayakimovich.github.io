@@ -1,4 +1,4 @@
-<img src="img/mlid_group.jpg?raw=true" width='60%'/>
+<img src="img/mlid_group2.jpg?raw=true" width='60%'/>
 ## Our mission
 
 Machine Learning for Infection and Disease (MLID) group (aka Yakimovich group) aims to develop the latest Machine Learning and Computer Science methods to facilitate our understanding of Infection Biology and Disease Biology.
@@ -28,7 +28,9 @@ Machine Learning for Infection and Disease (MLID) group (aka Yakimovich group) a
 
 <a href='https://www.nature.com/articles/s41597-024-02975-0'>Liou, Natasha, et al. "A clinical microscopy dataset to develop a deep learning diagnostic test for urinary tract infection." Scientific Data (2024).</a>
 
-<a href='https://www.nature.com/articles/s41598-023-38490-2'>Li, Rui, Mikhail Kudryashev, and Artur Yakimovich. "A weak-labelling and deep learning approach for in-focus object segmentation in 3D widefield microscopy." Scientific Reports (2022).</a>
+<a href='https://www.nature.com/articles/s41598-023-38490-2'>Li, Rui, Mikhail Kudryashev, and Artur Yakimovich. "A weak-labelling and deep learning approach for in-focus object segmentation in 3D widefield microscopy." Scientific Reports (2023).</a>
+
+<a href='https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12655/1265503/Phenotype-preserving-metric-design-for-high-content-image-reconstruction-by/10.1117/12.2676835.short'>Sharma, Vaibhav, and Artur Yakimovich. "Phenotype-preserving metric design for high-content image reconstruction by generative inpainting." Emerging Topics in Artificial Intelligence (ETAI) 2023. Vol. 12655. SPIE (2023).</a>
 
 <a href='https://www.frontiersin.org/articles/10.3389/fbinf.2022.912809/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Bioinformatics&id=912809'>Li, Rui, et al. "Open-Source Biomedical Image Analysis Models: A Meta-Analysis and Continuous Survey." Frontiers in Bioinformatics (2022): 76.</a>
 
