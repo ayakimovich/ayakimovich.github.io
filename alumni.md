@@ -2,6 +2,9 @@
 
 ---
 __Master Students:__
+* Adrian Urbanski
+
+* Nikita Deshpande
 
 * Vaibhav Sharma
 
