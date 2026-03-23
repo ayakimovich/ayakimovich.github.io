@@ -42,16 +42,16 @@
   /** Build a human-readable citation string matching the existing site style. */
   function formatCitation(row) {
     const authors = formatAuthors(row['Authors']);
-    const title   = row['Title'];
+    const title = row['Title'];
     const journal = row['Publication'];
-    const vol     = row['Volume'];
-    const num     = row['Number'];
-    const pages   = row['Pages'];
-    const year    = row['Year'];
+    const vol = row['Volume'];
+    const num = row['Number'];
+    const pages = row['Pages'];
+    const year = row['Year'];
 
     let venue = journal;
-    if (vol)   venue += ' ' + vol;
-    if (num)   venue += '.' + num;
+    if (vol) venue += ' ' + vol;
+    if (num) venue += '.' + num;
     if (pages) venue += ': ' + pages;
 
     return `${authors}. "${title}." ${venue} (${year}).`;
@@ -81,7 +81,7 @@
 
     // Separate preprints from peer-reviewed
     const peerReviewed = recent.filter(r => !isPreprint(r));
-    const preprints    = recent.filter(r =>  isPreprint(r));
+    const preprints = recent.filter(r => isPreprint(r));
 
     // Build set of peer-reviewed titles for deduplication
     const peerTitles = new Set(peerReviewed.map(r => normaliseTitle(r['Title'])));
@@ -100,13 +100,13 @@
     function toHTML(list) {
       return list.map(row => {
         const citation = formatCitation(row);
-        const url      = scholarURL(row['Title']);
-        return `<a href='${url}'>${citation}</a>`;
+        const url = scholarURL(row['Title']);
+        return `<a href='${url}'>${citation}</a></br>`;
       }).join('\n\n');
     }
 
     const preprintsEl = document.getElementById('preprints-list');
-    const papersEl    = document.getElementById('papers-list');
+    const papersEl = document.getElementById('papers-list');
 
     if (preprintsEl) {
       preprintsEl.innerHTML = uniquePreprints.length
