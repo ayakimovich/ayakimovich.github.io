@@ -101,7 +101,7 @@
       return list.map(row => {
         const citation = formatCitation(row);
         const url = scholarURL(row['Title']);
-        return `<a href='${url}'>${citation}</a></br>`;
+        return `<a href='${url}'>${citation}</a></br></br>`;
       }).join('\n\n');
     }
 
