@@ -19,5 +19,11 @@ Machine Learning for Infection and Disease (MLID) group (aka Yakimovich group) a
 <script src="bibliography/publications.js"></script>
 
 <br><br>
-<a class="twitter-timeline" href="https://twitter.com/ayakimovich?ref_src=twsrc%5Etfw">Tweets by ayakimovich</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<bsky-embed
+  username="ayakimovich.bsky.social"
+  limit="5"
+  mode="light"
+>
+</bsky-embed>
+<script type="module" src="https://unpkg.com/bsky-embed/dist/bsky-embed.js"></script>
 <br><br>
