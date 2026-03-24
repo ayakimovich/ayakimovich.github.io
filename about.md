@@ -7,7 +7,7 @@ Viruses require host cells to procreate and spread their progeny. For this, they
 <br><br>
 Recent advances in Machine Learning (ML) and Deep Learning (DL) are revolutionizing our abilities to analyze biomedical images and deepen our understanding of infection and disease. Among other host-pathogen interactions may be readily deciphered from microscopy data using convolutional neural networks. We work on developing the latest ML/DL and Computer Science methods to facilitate our understanding of Infection Biology and Disease Biology. This includes biomedical image analysis, generative modelling, as well as simulation of biological processes.
 <br><br>
- MLID group is a Young Investigator Group based in the <a href="https://casus.science">Center for Advanced Systems Understanding (CASUS)</a> of the <a href="https://hzdr.de">Helmholtz-Zentrum Dresden-Rossendorf</a>.  We are based in the beautiful German city of <a href="https://en.wikipedia.org/wiki G%C3%B6rlitz">Görlitz</a> in Germany. MLID is led by <a href="https://twitter.com/ayakimovich">Artur Yakimovich, PhD</a>.
+ MLID group is a Young Investigator Group based in the <a href="https://casus.science">Center for Advanced Systems Understanding (CASUS)</a> of the <a href="https://hzdr.de">Helmholtz-Zentrum Dresden-Rossendorf</a>.  We are based in the beautiful German city of <a href="https://en.wikipedia.org/wiki G%C3%B6rlitz">Görlitz</a> in Germany. MLID is led by <a href="https://bsky.app/profile/ayakimovich.bsky.social">Artur Yakimovich, PhD</a>.
 <img src="img/map.png?raw=true"/>
 <br>
 image source: Wikipedia
