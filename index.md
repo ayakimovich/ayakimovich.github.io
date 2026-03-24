@@ -25,5 +25,5 @@ Machine Learning for Infection and Disease (MLID) group (aka Yakimovich group) a
   mode="light"
 >
 </bsky-embed>
-<script type="module" src="https://unpkg.com/bsky-embed/dist/bsky-embed.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
 <br><br>
