@@ -5,7 +5,7 @@
 ### Generative AI for Bioimage Analysis (GenAI4BIA)
 **Bridging Scales through Generative AI for Inverse Problems in Biomedical Computational Microscopy**
 
-[**GitHub Repository**](https://github.com/ayakimovich/GenAI4BIA) &nbsp;|&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayakimovich/GenAI4BIA/blob/main/practical/practical_workshop.ipynb)
+[**GitHub Repository**](https://github.com/ayakimovich/GenAI4BIA) &nbsp;|&nbsp; [**Course Slides (PDF)**](https://github.com/ayakimovich/GenAI4BIA/blob/main/slides/main.pdf) &nbsp;|&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayakimovich/GenAI4BIA/blob/main/practical/practical_workshop.ipynb)
 
 #### Course Overview
 This course covers the mathematical foundations of generative AI, inverse problems, and distribution learning in bioimage analysis, paired with a practical hands-on benchmark reproduction of **VIRVS** (*Virus Infection Reporter Virtual Staining*).
@@ -27,4 +27,4 @@ The hands-on component features interactive tutorials:
 4. **Pix2Pix Conditional GAN**: Generative virtual staining model with adversarial loss.
 5. **Evaluation & Benchmarking**: Metric evaluation (PSNR, SSIM, PCC, MAE) and cell-level viral reporter signal quantification.
 
-For course slides, notebooks, and setup instructions, visit the [GenAI4BIA GitHub repository](https://github.com/ayakimovich/GenAI4BIA).
+For course [slides (PDF)](https://github.com/ayakimovich/GenAI4BIA/blob/main/slides/main.pdf), notebooks, and setup instructions, visit the [GenAI4BIA GitHub repository](https://github.com/ayakimovich/GenAI4BIA).
