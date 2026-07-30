@@ -12,11 +12,11 @@ This course covers the mathematical foundations of generative AI, inverse proble
 
 #### Topics Covered
 * **Inverse Problems in Bioimaging**: Forward modeling ($y = Ax + n$), ill-posedness, and Virtual Staining (mapping label-free brightfield micrographs to continuous fluorescence infection reporter signals).
-* **Distribution Learning**: Empirical distributions $p_{\text{data}}(x)$, Maximum Likelihood Estimation (MLE), KL divergence, Jensen-Shannon divergence, and Wasserstein distance.
+* **Distribution Learning**: Empirical distributions $p\_{\text{data}}(x)$, Maximum Likelihood Estimation (MLE), KL divergence, Jensen-Shannon divergence, and Wasserstein distance.
 * **Generative Model Families**:
   * *Variational Autoencoders (VAEs)*: ELBO objective and reparameterization trick ($z = \mu + \sigma \odot \epsilon$).
-  * *Generative Adversarial Networks (GANs / Pix2Pix)*: Minimax objective $\min_G \max_D V(D,G)$, conditional GAN loss, and L1 reconstruction.
-  * *Diffusion Models (DDPM)*: Forward noise addition $q(x_t|x_{t-1})$, reverse process $p_\theta(x_{t-1}|x_t)$, and noise prediction MSE loss.
+  * *Generative Adversarial Networks (GANs / Pix2Pix)*: Minimax objective $\min\_G \max\_D V(D,G)$, conditional GAN loss, and L1 reconstruction.
+  * *Diffusion Models (DDPM)*: Forward noise addition $q(x\_t \mid x\_{t-1})$, reverse process $p\_\theta(x\_{t-1} \mid x\_t)$, and noise prediction MSE loss.
 * **Code Implementation**: Every mathematical concept is presented alongside its Python / PyTorch code equivalent.
 
 #### Practical Workshop & Benchmarking
